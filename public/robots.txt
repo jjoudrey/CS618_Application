@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jubilant-dollop-57jr99v9gqc4jgq-5173.app.github.dev/sitemap.xml
